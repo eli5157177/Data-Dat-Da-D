@@ -1,0 +1,13 @@
+birth,fly,water,legs,Decision
+n,n,n,n,reptiles
+n,n,y,n,fishes
+y,n,y,n,mammals
+n,n,s,y,amphibian
+y,n,n,y,mammals
+n,n,s,y,amphibian
+y,n,y,n,mammals
+n,y,n,y,birds
+n,n,s,y,birds
+n,n,s,y,reptiles
+y,n,y,n,fishes
+y,n,n,y,mammals
